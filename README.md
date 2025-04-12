@@ -36,7 +36,7 @@ streamlit run app/main.py
  
 ## Architecture 🏗️
 
-![System Architecture](assets/model-pipeline.png)
+![System Architecture](assets/model-pipeline)
 
 ##Installation ⚙️
 
