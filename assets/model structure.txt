@@ -1,0 +1,18 @@
+movie-recommendation/
+│
+├── data/                      # Data directory
+│   ├── raw/                   # Raw data files
+│   └── processed/             # Processed data files
+│
+├── models/                    # Model implementations
+│   ├── matrix_factorization.py  # Matrix Factorization model
+│   ├── deep_cross_network.py    # DCN model
+│   └── hybrid_recommender.py    # Combined model
+│
+├── utils/                     # Utility functions
+│   ├── data_loader.py         # Data loading functions
+│   └── evaluation.py          # Evaluation metrics
+│
+├── app.py                     # Streamlit application
+├── train.py                   # Script to train models
+└── requirements.txt           # Project dependencies
