@@ -2,8 +2,6 @@
 
 A hybrid recommendation system combining matrix factorization and deep learning techniques to provide personalized movie suggestions.
 
-![app.py](assets/Movie-Recommender.mp4)
-
 ## Table of Contents
 
 - [Features](#features)
